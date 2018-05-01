@@ -18,3 +18,6 @@ inspired by [this repo](https://github.com/new-computers/dat-pi) (dat-pi), and t
 - [here a guide](https://guides.newcomputers.group/installing-dat-raspberry-pi.html) on how to do it by hand
 - [here](https://github.com/new-computers/seeder) a functioning prototype of the plug and play version
 - [homebase](https://github.com/beakerbrowser/homebase) does the server setting up for dat
+- [Rotonde](https://louis.center/p2p-social-networking/) for an ad-hoc social network?
+
+- setup a lan between pies?
