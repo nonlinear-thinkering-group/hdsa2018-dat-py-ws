@@ -38,4 +38,4 @@ In the context of online/offline and p2p networks, as well as fake news and post
 - laptop w/ Beaker Browser and dat installed
 - basic terminal knowledge
 
-Participants can form group and share each a raspberry pi. Then use multiple laptops with Beaker Browser to upload material and browse the dat(s) running on the raspberry pi.
+Participants can form group and share each a raspberry pi. Then use multiple laptops with Beaker Browser to upload material and browse the dat(s) running on the raspberry pi(es).
