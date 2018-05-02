@@ -35,6 +35,9 @@ In the context of online/offline and p2p networks, as well as fake news and post
 (Technical conditions, required materials, equipment or technical support)
 
 - raspberry pi
+  - power supply
+  - sd card with raspian (pre-installed?). Doing this could take some time + you need an sd-card reader in your laptop.
+  - it's possible to work [headless](https://howtoraspberrypi.com/how-to-raspberry-pi-headless-setup/) via ssh, by using an ethernet cable (which depends if your laptop even has one), or preconfigure the wifi connection on the sd card.
 - laptop w/ Beaker Browser and dat installed
 - basic terminal knowledge
 
