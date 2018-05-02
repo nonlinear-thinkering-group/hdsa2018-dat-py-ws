@@ -8,5 +8,5 @@
 
 ## prep
 
-- [ ] [they suggest](https://guides.newcomputers.group/installing-dat-raspberry-pi.html) pies Raspberry Pi B+ or Zero W, yeah?
+- [ ] [they suggest](https://guides.newcomputers.group/installing-dat-raspberry-pi.html) Raspberry Pi B+ or Zero W, yeah?
 - [ ] test setup and see if everything works and play etc
