@@ -42,3 +42,20 @@ In the context of online / offline and p2p networks, as well as fake news and po
 - basic terminal knowledge
 
 Participants can form group and share each a raspberry pi. Then use multiple laptops with Beaker Browser to upload material and browse the dats running on the raspberry pies.
+
+## What's the duration?
+
+- [ ] Half-day
+- [x] 1 Day
+- [ ] 2 Days
+
+I’d say 1 day to have enough time to explore and play a bit with stuff once everything has been setup?
+
+## We ask everyone who submits a workshop proposal to review proposals of peers as well. How many proposals are you able to review in the week of May 14th to May 20th?
+
+- [ ] 1
+- [x] 2
+- [ ] 3
+- [ ] No reviews
+
+One each?
