@@ -10,7 +10,7 @@
 
 - [ ] [they suggest](https://guides.newcomputers.group/installing-dat-raspberry-pi.html) Raspberry Pi B+ or Zero W, yeah?
 - [ ] test setup and see if everything works and play etc
-= [ ] ask for raspberry pies
+- [ ] ask for raspberry pies
 
 ## review
 
