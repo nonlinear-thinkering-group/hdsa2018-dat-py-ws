@@ -25,3 +25,7 @@ inspired by [this repo](https://github.com/new-computers/dat-pi) (dat-pi), and t
 ## collateral
 
 propose to use scuttlebutt with ad-hoc groups (and a common pub?) to chat throughout the summer academy, as last year slack was used for.
+
+## material
+
+- 3-5 raspberry pies w/ wireless and microSD modules
