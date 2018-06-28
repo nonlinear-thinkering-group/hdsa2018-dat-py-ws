@@ -29,3 +29,38 @@ propose to use scuttlebutt with ad-hoc groups (and a common pub?) to chat throug
 ## material
 
 - 3-5 raspberry pies w/ wireless and microSD modules
+
+## notes 28062018
+
+### pre ws
+
+- test router!
+- install raspian, test wifi, node.js 
+
+### during ws
+
+- install dat (on pies and on people's laptop) and hypercored on pies
+- install beaker browser
+- make websites w/ panel.enoki.site through beaker browser
+- add website dat url to index.dat
+
+### todo
+
+- make index dat-based website where people can add new dat urls
+- come up w/ MUD based game exercise, look up previous workshop in the week to make theme / output connections
+
+### ref
+
+- [MUD](https://en.m.wikipedia.org/wiki/MUD)
+- [hyperdungeon](https://github.com/cblgh/hyperdungeon)
+- [dwarf fortress](https://en.m.wikipedia.org/wiki/Dwarf_Fortress)
+
+## setup raspberry pi
+
+refs:
+
+- [burn raspian.img onto sd card](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
+- [setting WiFi up via the command line](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
+- [connect to wifi and setup dat](https://github.com/new-computers/guides/blob/master/guides/installing-dat-raspberry-pi.md)
+- [setup persistent dat on raspberry pi](https://docs.datproject.org/server)
+  - w/ [pm2 and startup hook](https://pm2.io/doc/en/runtime/guide/startup-hook/)
