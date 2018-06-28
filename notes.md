@@ -24,7 +24,7 @@ inspired by [this repo](https://github.com/new-computers/dat-pi) (dat-pi), and t
 
 ## collateral
 
-propose to use scuttlebutt with ad-hoc groups (and a common pub?) to chat throughout the summer academy, as last year slack was used for.
+~~propose to use scuttlebutt with ad-hoc groups (and a common pub?) to chat throughout the summer academy, as last year slack was used for.~~ 
 
 ## material
 
@@ -43,6 +43,7 @@ propose to use scuttlebutt with ad-hoc groups (and a common pub?) to chat throug
 - install beaker browser
 - make websites w/ panel.enoki.site through beaker browser
 - add website dat url to index.dat
+- use some version of [pask](https://github.com/nonlinear-thinkering-group/pask) to run the MUD exercise!
 
 ### todo
 
