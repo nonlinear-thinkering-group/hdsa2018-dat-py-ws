@@ -49,6 +49,12 @@ inspired by [this repo](https://github.com/new-computers/dat-pi) (dat-pi), and t
 
 - make index dat-based website where people can add new dat urls
 - come up w/ MUD based game exercise, look up previous workshop in the week to make theme / output connections
+  - here's an idea: 
+    - each room in the MUD is a dat
+    - each player designs a room, and gets some information or an artifact to hide, like maybe a key.
+    - each player also gets a goal, or something to find in the other players rooms, and perhaps a character or role
+    - players in the same room can chat, and perhaps swap items
+    - you get a kind of distributed emergent gameplay, where the "state" of the game is distributed between the dats
 
 ### ref
 
