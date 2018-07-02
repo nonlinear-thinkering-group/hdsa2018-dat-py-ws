@@ -48,13 +48,7 @@ inspired by [this repo](https://github.com/new-computers/dat-pi) (dat-pi), and t
 ### todo
 
 - make index dat-based website where people can add new dat urls
-- come up w/ MUD based game exercise, look up previous workshop in the week to make theme / output connections
-  - here's an idea: 
-    - each room in the MUD is a dat
-    - each player designs a room, and gets some information or an artifact to hide, like maybe a key.
-    - each player also gets a goal, or something to find in the other players rooms, and perhaps a character or role
-    - players in the same room can chat, and perhaps swap items
-    - you get a kind of distributed emergent gameplay, where the "state" of the game is distributed between the dats
+- come up w/ MUD based game exercise, look up previous workshop in the week to make theme / output connections 
 
 ### ref
 
@@ -71,3 +65,28 @@ refs:
 - [connect to wifi and setup dat](https://github.com/new-computers/guides/blob/master/guides/installing-dat-raspberry-pi.md)
 - [setup persistent dat on raspberry pi](https://docs.datproject.org/server)
   - w/ [pm2 and startup hook](https://pm2.io/doc/en/runtime/guide/startup-hook/)
+  
+## MUD gameplay
+
+### sketch
+
+- here's an idea: 
+  - each room in the MUD is a dat
+  - each player designs a room, and gets some information or an artifact to hide, like maybe a key.
+  - each player also gets a goal, or something to find in the other players rooms, and perhaps a character or role
+  - players in the same room can chat, and perhaps swap items
+  - you get a kind of distributed emergent gameplay, where the "state" of the game is distributed between the dats
+
+### notes 02072018
+
+- each laptop is a dungeon
+- dungeons can ally between each other and or face / confront each other in order to get each others' key (dat adddress) and or items
+- each dungeon design their own room: a description with what's going on in there, what happens when you enter it, etc)
+- each dungeon has to make their own content (room description, characters (? or is this random), items the dungeon owns
+- dat pies: DAOs, genesis masters, chatbots, and possibly taverns?
+- magic rules happen every now and then: eg. everyone passes to the person next to them their laptop (dungeon) and they have to perform some action over the dungeon (delete a file, rename a file, add a file) or take over and being in charge of that dungeon
+- these *magic rules* are coordinated by the dat-pies acting as DAOs, and executing rules written in their smart contracts
+- dependancy graph: everytime a peer get a new key of another dungeon, they have to add the key to their dat and because of that, then they will be able to visit that dat and see which items the dungeon has
+- the above action is enable by the use of a map, displaying the other dats / dungeon you have visited
+- internet affect points: hate speech, social justice warriors, trolls, fake news, headline-clickbaiters
+- peers trade items etc in the DAOs, in this way alliances can be formed or disregard and peers can combine the items they start the game with with other items and being able to perform specific actions (eg combining two objects to execute a specific action and get the desired output)
