@@ -93,13 +93,15 @@ refs:
 
 ### Short description of your workshop
 
-*hypermush* is an introduction to p2p technologies, their functioning and use-application, disguised as a [multi-user-shared-hallucination](https://en.m.wikipedia.org/wiki/MUSH) (MUSH) videogame.
+*hypermush* is an introduction to p2p technologies, their functioning and user-application, disguised as a [multi-user-shared-hallucination](https://en.m.wikipedia.org/wiki/MUSH) (MUSH) videogame.
 
-We're gonna use the p2p [dat](https://datproject.org/) protocol to build shared interconnected narratives by way of dungeon explorations, user group formation, file tradings, key discovery... until it gets hyperreal.
+MUSH are an evolution of MUD, multi-user-dungeon: early multiplayer text-based adventure videogames from the '70s.
+
+We're gonna use the MUSH game dynamics to explore the p2p [dat](https://datproject.org/) protocol, and  build shared interconnected narratives by way of dungeon explorations, user group formation, file tradings, key discovery... until it gets hyperreal.
 
 ### image
 
-[link to image](imag)
+[http://www.mobygames.com/images/shots/l/78247-questron-apple-ii-screenshot-this-dungeon-is-multi-leveled.png](imag)
 
 ### schedule and practical information (what participants need to bring)
 
