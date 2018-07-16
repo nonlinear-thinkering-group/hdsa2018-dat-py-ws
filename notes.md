@@ -97,7 +97,7 @@ refs:
 
 We're gonna use the p2p [dat](https://datproject.org/) protocol to build shared interconnected narratives by way of dungeon explorations, user group formation, file tradings, key discovery... until it gets hyperreal.
 
-## image
+### image
 
 [link to image](imag)
 
