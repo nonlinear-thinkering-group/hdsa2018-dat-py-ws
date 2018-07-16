@@ -113,4 +113,4 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat protocol](https:/
 - `15:00-15:15` break
 - `15:15-17:00` start of the MUSH
 
-people needs to bring their laptop. moreover, it is suggested to make use of the outcomes of the previous days (files, ideas, etc) to inform the design of the dungeon and the general gameplay of the MUSH.
+People needs to bring their laptop. moreover, it is suggested to make use of the outcomes of the previous days (files, ideas, etc) to inform the design of the dungeon and the general gameplay of the MUSH.
