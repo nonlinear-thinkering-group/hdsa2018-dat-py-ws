@@ -19,16 +19,22 @@
 
 ## gameplay
 
-- [ ] fork pask
+- [x] fork pask
 - [ ] improve chat options
   - [ ] one to one
   - [ ] group-based
   - [ ] dungeon-based
+- [ ] add automatic authorisation 
 - [ ] add support for adding dat keys into your `dat.json`
 - [ ] add support for map visualisation
+- [ ] add commands
+  - [ ] trade
+	- send a private message to a dungeon w/ attached an item
+  - [ ] exchange keys
+  - [ ] add items to your dungeon
 - [ ] add suport for moving to differen dats
 - [ ] setup dat-pies as DAOs etc
 - [ ] add support for internet affect points
-- [ ] add suppor for trading items
+- [ ] add support for trading items
 - [ ] add support for showing dungeon description and items
 - [ ] test dat-MUD before the ws

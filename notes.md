@@ -90,3 +90,28 @@ refs:
 - the above action is enable by the use of a map, displaying the other dats / dungeon you have visited
 - internet affect points: hate speech, social justice warriors, trolls, fake news, headline-clickbaiters
 - peers trade items etc in the DAOs, in this way alliances can be formed or disregard and peers can combine the items they start the game with with other items and being able to perform specific actions (eg combining two objects to execute a specific action and get the desired output)
+
+## short description of your workshop
+
+*hypermush* is an introduction to p2p technologies, their functioning and use-application, disguised as a [multi-user-shared-hallucination](https://en.m.wikipedia.org/wiki/MUSH) (MUSH) videogame.
+
+We're gonna use the p2p [dat](https://datproject.org/) protocol to build shared interconnected narratives by way of dungeon explorations, user group formation, file tradings, key discovery... until it gets hyperreal.
+
+## image
+
+
+
+## schedule and practical information (what participants need to bring)
+
+10:00-13:00
+
+- introduction to p2p, why we like them, what we do
+- setup of the dat software ([dat cli](https://docs.datproject.org/install), [hypermush.app](https://github.com/nonlinear-thinkering-group/hypermush))
+- quick introduction / setup of the raspberry pies with the dat software
+
+14:00-17:00
+
+- group formation
+- characters formation?
+- dungeon design
+- start of the MUSH
