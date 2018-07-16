@@ -101,16 +101,18 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat](https://datproje
 
 ![mud](http://www.mobygames.com/images/shots/l/78247-questron-apple-ii-screenshot-this-dungeon-is-multi-leveled.png)
 
-### schedule and practical information (what participants need to bring)
+### schedule and practical information
 
-- `10:00-11:00`: introduction to p2p, why we like them, what we do
-- `11:00-11:15`: break
-- `11:15-12:15`: setup of the dat software ([dat cli](https://docs.datproject.org/install), [hypermush.app](https://github.com/nonlinear-thinkering-group/hypermush)) on people's laptop
-- `12:15:13:00`: quick introduction / setup of the raspberry pies with the dat software
----
-- `13:00-14:00`: lunch
----
-- `14:00:14:30`: group formation, characters formation
-- `14:30-15:00`: dungeon design
-- `15:00-15:15`: break
-- `15:15-17:00`: start of the MUSH
+- `10:00-11:00` introduction to p2p, why we like them, what we do
+- `11:00-11:15` break
+- `11:15-12:15` setup of the dat software ([dat cli](https://docs.datproject.org/install), [hypermush.app](https://github.com/nonlinear-thinkering-group/hypermush)) on people's laptop
+- `12:15:13:00` quick introduction / setup of the raspberry pies with the dat software
+
+- `13:00-14:00` lunch
+
+- `14:00:14:30` group formation, characters formation
+- `14:30-15:00` dungeon design
+- `15:00-15:15` break
+- `15:15-17:00` start of the MUSH
+
+people needs to bring their laptop. moreover, it is suggested to make use of the outcomes of the previous days (files, ideas, etc) to inform the design of the dungeon and the general gameplay of the MUSH.
