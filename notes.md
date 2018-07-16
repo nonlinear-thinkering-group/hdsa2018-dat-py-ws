@@ -97,7 +97,7 @@ refs:
 
 MUSH are an evolution of [MUD](https://en.m.wikipedia.org/wiki/MUD), multi-user-dungeon: early multiplayer text-based adventure videogames from the '70s.
 
-We're gonna use the MUSH game dynamics to explore the p2p [dat](https://datproject.org/) protocol, and  build shared interconnected narratives by way of dungeon explorations, user group formation, file tradings, key discovery... until it gets hyperreal.
+We're gonna use the MUSH game dynamics to explore the p2p [dat protocol](https://datproject.org/), and  build shared interconnected narratives by way of dungeon explorations, user group formation, file tradings, key discovery... until it gets hyperreal.
 
 ![mud](http://www.mobygames.com/images/shots/l/78247-questron-apple-ii-screenshot-this-dungeon-is-multi-leveled.png)
 
