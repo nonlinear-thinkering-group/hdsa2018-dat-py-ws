@@ -101,7 +101,7 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat](https://datproje
 
 ### image
 
-[http://www.mobygames.com/images/shots/l/78247-questron-apple-ii-screenshot-this-dungeon-is-multi-leveled.png](imag)
+![http://www.mobygames.com/images/shots/l/78247-questron-apple-ii-screenshot-this-dungeon-is-multi-leveled.png](imag)
 
 ### schedule and practical information (what participants need to bring)
 
