@@ -107,9 +107,7 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat](https://datproje
 - `11:00-11:15` break
 - `11:15-12:15` setup of the dat software ([dat cli](https://docs.datproject.org/install), [hypermush.app](https://github.com/nonlinear-thinkering-group/hypermush)) on people's laptop
 - `12:15:13:00` quick introduction / setup of the raspberry pies with the dat software
---
-- `13:00-14:00` lunch
---
+- *`13:00-14:00` lunch*
 - `14:00:14:30` group formation, characters formation
 - `14:30-15:00` dungeon design
 - `15:00-15:15` break
