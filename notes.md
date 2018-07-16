@@ -91,7 +91,7 @@ refs:
 - internet affect points: hate speech, social justice warriors, trolls, fake news, headline-clickbaiters
 - peers trade items etc in the DAOs, in this way alliances can be formed or disregard and peers can combine the items they start the game with with other items and being able to perform specific actions (eg combining two objects to execute a specific action and get the desired output)
 
-## short description of your workshop
+### Short description of your workshop
 
 *hypermush* is an introduction to p2p technologies, their functioning and use-application, disguised as a [multi-user-shared-hallucination](https://en.m.wikipedia.org/wiki/MUSH) (MUSH) videogame.
 
@@ -99,9 +99,9 @@ We're gonna use the p2p [dat](https://datproject.org/) protocol to build shared 
 
 ## image
 
+[link to image](imag)
 
-
-## schedule and practical information (what participants need to bring)
+### schedule and practical information (what participants need to bring)
 
 10:00-13:00
 
