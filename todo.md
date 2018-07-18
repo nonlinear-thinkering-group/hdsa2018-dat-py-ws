@@ -15,26 +15,27 @@
 - [x] [they suggest](https://guides.newcomputers.group/installing-dat-raspberry-pi.html) Raspberry Pi B+ or Zero W, yeah?
 - [x] test setup and see if everything works and play etc
 - [x] ask for raspberry pies
-- [ ] setup other pies
+- [ ] setup other pies @af
 
 ## gameplay
 
 - [x] fork pask
 - [ ] improve chat options
-  - [ ] one to one
-  - [ ] group-based
-  - [ ] dungeon-based
-- [ ] add automatic authorisation 
-- [ ] add support for adding dat keys into your `dat.json`
-- [ ] add support for map visualisation
-- [ ] add commands
+  - [w] one to one
+  - [w] group-based
+  - [ ] dungeon-based @mg
+- [ ] add automatic authorisation @mg 
+- [ ] add support for adding dat keys into your `dat.json` @af
+- [x] add support for showing dungeon description and items
+- [x] add support for map visualisation
+  - [ ] improve design @af
+- [ ] add commands @af-@mg
   - [ ] trade
 	- send a private message to a dungeon w/ attached an item
   - [ ] exchange keys
   - [ ] add items to your dungeon
-- [ ] add suport for moving to differen dats
-- [ ] setup dat-pies as DAOs etc
-- [ ] add support for internet affect points
-- [ ] add support for trading items
-- [ ] add support for showing dungeon description and items
+- [x] add suport for moving to differen dats
+- [ ] add support for loading dungeon from dat @mg
+- [w] setup dat-pies as DAOs etc @af-@mg
+- [w] add support for internet affect points
 - [ ] test dat-MUD before the ws
