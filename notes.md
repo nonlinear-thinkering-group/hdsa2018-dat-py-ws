@@ -91,6 +91,12 @@ refs:
 - internet affect points: hate speech, social justice warriors, trolls, fake news, headline-clickbaiters
 - peers trade items etc in the DAOs, in this way alliances can be formed or disregard and peers can combine the items they start the game with with other items and being able to perform specific actions (eg combining two objects to execute a specific action and get the desired output)
 
+# notes 20180718
+
+- pies act as:
+  - shops
+  - DAOS (weather, NPCs, etc)
+
 ### short description of your workshop
 
 *hypermush* is an introduction to p2p technologies, their functioning and user-application, disguised as a [multi-user-shared-hallucination](https://en.m.wikipedia.org/wiki/MUSH) (MUSH) videogame.

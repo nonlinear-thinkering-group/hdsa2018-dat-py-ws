@@ -23,18 +23,19 @@
 - [ ] improve chat options
   - [w] one to one
   - [w] group-based
-  - [ ] dungeon-based @mg
+  - [x] dungeon-based @mg
 - [ ] add automatic authorisation @mg 
 - [x] add support for showing dungeon description and items
 - [x] add support for map visualisation
   - [ ] improve design @af
 - [ ] add commands @af-@mg
-  - [ ] trade
+  - [x] drop
 	- send a private message to a dungeon w/ attached an item
+	- [ ] pick
   - [ ] exchange keys @af
   - [ ] add items to your dungeon
 - [x] add suport for moving to differen dats
-- [ ] add support for loading dungeon from dat @mg
+- [x] add support for loading dungeon from dat @mg
 - [w] setup dat-pies as DAOs etc @af-@mg
 - [w] add support for internet affect points
 - [ ] test dat-MUD before the ws
