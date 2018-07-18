@@ -25,14 +25,13 @@
   - [w] group-based
   - [ ] dungeon-based @mg
 - [ ] add automatic authorisation @mg 
-- [ ] add support for adding dat keys into your `dat.json` @af
 - [x] add support for showing dungeon description and items
 - [x] add support for map visualisation
   - [ ] improve design @af
 - [ ] add commands @af-@mg
   - [ ] trade
 	- send a private message to a dungeon w/ attached an item
-  - [ ] exchange keys
+  - [ ] exchange keys @af
   - [ ] add items to your dungeon
 - [x] add suport for moving to differen dats
 - [ ] add support for loading dungeon from dat @mg
