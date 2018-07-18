@@ -24,7 +24,7 @@
   - [w] one to one
   - [w] group-based
   - [x] dungeon-based @mg
-- [ ] add automatic authorisation @mg 
+- [x] add automatic authorisation @mg 
 - [x] add support for showing dungeon description and items
 - [x] add support for map visualisation
   - [ ] improve design @af
