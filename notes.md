@@ -66,6 +66,7 @@ refs:
 - [setup persistent dat on raspberry pi](https://docs.datproject.org/server)
   - w/ [pm2 and startup hook](https://pm2.io/doc/en/runtime/guide/startup-hook/)
   
+- [Seeder from ncwg](https://newcomputers.group/seeder.html)
 ## MUD gameplay
 
 ### sketch
