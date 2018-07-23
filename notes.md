@@ -115,10 +115,13 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat protocol](https:/
 	- p2p => visiting files
 	- http => visiting locations that serve files
 	- p2p => turns any computer into a node of the network
-		- you can just simply connect with other computers (publish and share stuff, working on same files, broadcasting, etc); it finally feels real networking 
+		- eg. torrenting movies and music
+		- you can just simply connect with other computers (publish and share stuff, working on same files, broadcasting, etc); you are using your own computation power instead of using dedicated computers acting as servers; 
+	- good alternative to most silicon-valley applications (distributed network rather than centralised gateways - rather than servers, because server farms and cdns) 
 	- lan vs blockchain
 	- arpanet graph (add context)
 	- decentralised + small distributed nodes
+	- hierarchical network model
 - `10:30` Installing beaker
 - `10:45` Explaining beaker
 	- Visiting sites
