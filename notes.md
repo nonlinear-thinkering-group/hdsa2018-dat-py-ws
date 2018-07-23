@@ -110,37 +110,33 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat protocol](https:/
 
 ### schedule and practical information
 
-`10:00` Introduction
-
-`10:30` Installing beaker
-
-`10:45` Explaining beaker
-
-- Visiting sites
-- Seeding a site
-- Forking
-- Editor
-- Versions
-- Hashbase
-
-`11:30` BREAKER
-
-`11:45` Playing some more
-
-- Installing Dat commandline
-- Installing Dat on raspberry pies
-- Homebase
-- Dat shopping list
-- Rotonde
-
-`13:00` LUNCHOKI
-
-`14:00` Enoki
-
-`15:00` 
-
-`16:00` 
-
-`17:00` BEERKER
+- `10:00` Introduction
+	- 
+- `10:30` Installing beaker
+- `10:45` Explaining beaker
+	- Visiting sites
+	- Seeding a site
+	- Forking
+	- Editor
+	- Versions
+	- Hashbase
+- `11:30` BREAKER
+- `11:45` Playing some more
+	- Installing Dat commandline
+	- Installing Dat on raspberry pies
+	- Homebase
+- `13:00` LUNCHOKI
+- `14:00`
+	- [dat shopping list](https://github.com/jimpick/dat-shopping-list)
+	- [hypercast](https://github.com/louiscenter/hypercast)
+	- [hyperchat](https://github.com/frnsys/hyperchat)
+	- [hyperdocs](https://github.com/frnsys/hyperdocs)
+	- [Rotonde](https://github.com/Rotonde/rotonde-client)
+- `15:00` [Enoki](dat://panel.enoki.site/)
+- `16:00` hypermush
+	- character design
+	- dungeon design 
+	- play
+- `17:00` BEERKER
 
 People needs to bring their laptop. moreover, it is suggested to make use of the outcomes of the previous days (files, ideas, etc) to inform the design of the dungeon and the general gameplay of the MUSH.
