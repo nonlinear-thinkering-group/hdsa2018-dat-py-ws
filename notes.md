@@ -121,7 +121,7 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat protocol](https:/
 	- lan vs blockchain
 	- RAND corp graph (add context)
 	- decentralised + small distributed nodes
-	- hierarchical network model
+	- [hierarchical network model](https://en.m.wikipedia.org/wiki/Hierarchical_network_model)
 - `10:30` Installing beaker
 - `10:45` Explaining beaker
 	- Visiting sites
