@@ -112,11 +112,11 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat protocol](https:/
 
 - `10:00` Introduction
 	- p2p vs http
-	- lan vs blockchain
 	- p2p => visiting files
 	- http => visiting locations that serve files
 	- p2p => turns any computer into a node of the network
-		- you can just simply connect and share files with other computers (publish and share stuff, working on same files, broadcasting, etc) 
+		- you can just simply connect with other computers (publish and share stuff, working on same files, broadcasting, etc); it finally feels real networking 
+	- lan vs blockchain
 	- arpanet graph (add context)
 	- decentralised + small distributed nodes
 - `10:30` Installing beaker
@@ -146,4 +146,4 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat protocol](https:/
 	- play
 - `17:00` BEERKER
 
-People needs to bring their laptop. moreover, it is suggested to make use of the outcomes of the previous days (files, ideas, etc) to inform the design of the dungeon and the general gameplay of the MUSH.
+People needs to bring their laptop. Moreover, it is suggested to make use of the outcomes of the previous days (files, ideas, etc) to inform the design of the dungeon and the general gameplay of the MUSH.
