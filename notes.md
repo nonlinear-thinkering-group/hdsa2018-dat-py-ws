@@ -111,7 +111,14 @@ We're gonna use the MUSH game dynamics to explore the p2p [dat protocol](https:/
 ### schedule and practical information
 
 - `10:00` Introduction
-	- 
+	- p2p vs http
+	- lan vs blockchain
+	- p2p => visiting files
+	- http => visiting locations that serve files
+	- p2p => turns any computer into a node of the network
+		- you can just simply connect and share files with other computers (publish and share stuff, working on same files, broadcasting, etc) 
+	- arpanet graph (add context)
+	- decentralised + small distributed nodes
 - `10:30` Installing beaker
 - `10:45` Explaining beaker
 	- Visiting sites
