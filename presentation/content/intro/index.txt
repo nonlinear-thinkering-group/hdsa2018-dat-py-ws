@@ -6,13 +6,20 @@ view: main
 ----
 text:
 
-# p2p web
+# intro
+
+## who them
+
+- computational cosmogony
+- nonlinear thinkering group
+- computer thinking support group
+- stop with vanity and just use a 64 hex hash
 
 ## http vs p2p
 
 ### http
 
-simple functioning of an http(s) server
+Simple functioning of an http(s) server
 
 ```
          (→ hi!)
@@ -26,7 +33,9 @@ client <==================== server
 
 ![](/content/p2p-cats.gif)
 
-## what is the difference between http(s) and p2p?
+![](/content/intro/single-program.png)
+
+## What is the difference between http(s) and p2p?
 
 - `http` → you visit *locations* that serve files (eg you visit the url
   of a page and that page spits back the content [= *files*] contained
@@ -55,7 +64,7 @@ client <==================== server
 
 → `p2p` makes a good alternative to most silicon-valley applications.
 
-## lan vs blockchain
+## LAN vs Blockchain
 
 ![](/content/intro/cen-dec-dis.png)
 
@@ -65,8 +74,8 @@ a nuclear assault?*
 
 ![](/content/intro/cen-dec-dis-lan.png)
 
-why not a decentralised + small distributed nodes model, rather than
+Why not a decentralised + small distributed nodes model, rather than
 *always* a planetary synchronised ledger aka blockchain?
 
-see also the [hierarchical network
+See also the [hierarchical network
 model](https://en.m.wikipedia.org/wiki/Hierarchical_network_model)

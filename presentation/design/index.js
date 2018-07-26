@@ -85,6 +85,7 @@ body {
 }
 
 pre {
+  font-size: inherit;
   margin: 0 0 1rem 0;
   padding: 0.5rem;
   border: 1px solid black;

@@ -9,7 +9,7 @@ text:
 
 ## `install beaker`, *~15 mins*
 
-- grab the usb stick or
+- grab the installer from the usb stick or
 - download beaker [from here](https://beakerbrowser.com/install)
 
 ## `explore beaker`, *~45 mins*

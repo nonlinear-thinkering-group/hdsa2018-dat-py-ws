@@ -1,0 +1,27 @@
+title: references
+----
+order: 06
+----
+view: main
+----
+text:
+# references
+
+## resources
+
+- [p2pforever.org](http://p2pforever.org/)
+- [peer-to-peer-web](https://peer-to-peer-web.com/)
+- [distributed web of care](http://distributedweb.care/)
+
+## protocols
+
+- [dat](https://datproject.org/)
+- [ipfs](https://ipfs.io/)
+- [scuttlebutt](https://www.scuttlebutt.nz/)
+- [zeronet](https://zeronet.io/)
+- [activity pub](https://activitypub.rocks/)
+- [bitcoin](https://bitcoin.org/en/)
+- the whole blockchain scene
+- [bittorent](https://www.bittorrent.com/)
+
+and others... (p2p is abudance)

@@ -9,8 +9,10 @@ text:
 
 ## `intro`
 
-- what is a mud
-- what is a mush
+- what is a mud → multi-user dungeon
+- what is a mush → multi-user shared hallucination
+
+![](/content/mush/mud.png)
 
 ## `design`
 
@@ -23,5 +25,20 @@ text:
   - grab it from the usb stick
   - or [download the repo](https://github.com/nonlinear-thinkering-group/hypermush)
 - use dat, either through the command line or beaker, to exchange, trade, share files
+
+### hypermush commands
+
+- connect to a host using `/join key`
+- set your name using `/name yourname`
+- go to a room using `/goto roomname`
+- you can describe what you're doing using `*eats a banana*`
+- host a new session using `/host conversationname`
+
+### dat cli commands
+
+- create dat, import files and share `dat share`
+- create empty dat `dat create`
+- make a copy of a dat `dat clone`
+- sync files to existing dat `dat sync`
 
 ## at some point, `beerkers`
