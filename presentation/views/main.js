@@ -4,6 +4,8 @@ var raw = require('choo/html/raw')
 var nano = require('nanopage')
 var Markdown = require('markdown-it')
 var md = new Markdown()
+var mdfg = require('markdown-it-implicit-figures')
+md.use(mdfg)
 
 module.exports = view
 
@@ -13,7 +15,7 @@ function view (state, emit) {
 
   return html`
     <body class="">
-      <nav class="x">
+      <nav class="psf t0 l0 x">
         <a href="/" class="w-bl h-bl bgc-bk bgc-gr--pulse mr1"></a>
         ${nav()}
       </nav>

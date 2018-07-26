@@ -11,8 +11,10 @@ button {
 }
 
 figure {
-	margin: 0;
-	padding: 0;
+	margin: 0 0 1rem 0;
+	padding: 0.15rem;
+  border: 1px solid black;
+  text-align: center;
 }
 
 img {
@@ -82,6 +84,16 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
+pre {
+  margin: 0 0 1rem 0;
+  padding: 0.5rem;
+  border: 1px solid black;
+}
+
+pre code {
+  border: none;
+}
+
 code {
 	font-family: 'Times New Roman';
 	padding: 0 0.1rem;
@@ -93,10 +105,15 @@ h1, h2, h3 {
 	line-height: 1.25;
 }
 
+h1 {
+  color: black;
+}
+
 hr {
 	border: none;
-	border-bottom: 1px solid black;
-	margin: 1.14rem 0;
+  width: 3rem;
+	border-bottom: 1px dashed black;
+	margin: 0 0 1rem 0;
 }
 
 h1, h2, h3,
@@ -106,7 +123,22 @@ blockquote {
 	padding-bottom: 1rem;
 }
 
-h2, h3 {
+ul li ul {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+li {
+  padding: 0.15rem 0 0 0;
+}
+
+li p {
+  padding: 0;
+}
+
+p+h2, p+h3,
+ul+h2, ul+h3,
+figure+h2, figure+h3 {
 	padding-top: 1rem;
 }
 
@@ -122,17 +154,8 @@ a {
 	color: black;
 }
 
-button {
-	font-size: 18px;
-	font-family: inherit;
-}
-
 .copy {
 	max-width: 37.5rem;
-}
-
-.op0-hv:hover {
-  opacity: 0.1;
 }
 
 .w-bl {
