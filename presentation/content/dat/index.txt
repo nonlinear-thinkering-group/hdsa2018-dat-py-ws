@@ -5,15 +5,32 @@ order: 03
 view: main
 ----
 text:
-- `11:45` Playing some more
-  - Installing Dat commandline
-  - Installing Dat on raspberry pies
-  - Homebase
-- `13:00` LUNCHOKI
-- `14:00`
-	- [dat shopping list](https://github.com/jimpick/dat-shopping-list)
-	- [hypercast](https://github.com/louiscenter/hypercast)
-	- [hyperchat](https://github.com/frnsys/hyperchat)
-	- [hyperdocs](https://github.com/frnsys/hyperdocs)
-	- [Rotonde](https://github.com/Rotonde/rotonde-client)
-- `15:00` [Enoki](dat://panel.enoki.site/)
+
+# dat
+
+## `install dat`, *~till lunch*
+
+- [install dat commandline](https://docs.datproject.org/install)
+- [install dat on raspberry
+    pies](https://github.com/new-computers/guides/blob/master/guides/installing-dat-raspberry-pi.md)
+- [install homebase on raspberry
+    pies](https://github.com/beakerbrowser/homebase)
+- or [install dat seeder](https://newcomputers.group/seeder.html)
+
+## `lunchoki`, *~13:00?*
+
+## `dat demos`, *~1h*
+
+- [dat shopping list](https://github.com/jimpick/dat-shopping-list)
+- [hypercast](https://github.com/louiscenter/hypercast)
+- [hyperchat](https://github.com/frnsys/hyperchat)
+- [hyperdocs](https://github.com/frnsys/hyperdocs)
+- [Rotonde](https://github.com/Rotonde/rotonde-client)
+- more [dat-based apps](https://www.are.na/search/dat%20based)
+
+
+## `enoki`, *~1h*
+
+- go [visit enoki](dat://panel.enoki.site/) using beaker browser
+- make a website
+- host it on a `dat-pi`

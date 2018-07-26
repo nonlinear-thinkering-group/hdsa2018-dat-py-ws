@@ -5,12 +5,26 @@ order: 02
 view: main
 ----
 text:
-- `10:30` Installing beaker
-- `10:45` Explaining beaker
-	- Visiting sites
-	- Seeding a site
-	- Forking
-	- Editor
-	- Versions
-	- Hashbase
-- `11:30` BREAKER
+# beaker browser
+
+## `install beaker`, *~15 mins*
+
+- grab the usb stick or
+- download beaker [from here](https://beakerbrowser.com/install)
+
+## `explore beaker`, *~45 mins*
+
+- make sites
+- visite sites
+- seed sites
+- make an editable copy of sites (forking)
+- use beaker internal editor
+- browse a dat site history (versioning)
+- host a dat
+  - hashbase
+  - homebase
+  - your own laptop forever on
+  - [soon](https://github.com/datrs/dat) from your tiny computer (aka
+    phones)
+    
+## *at some point*, let's take a `breaker`

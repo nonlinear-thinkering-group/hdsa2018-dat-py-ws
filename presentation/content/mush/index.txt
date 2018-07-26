@@ -5,8 +5,23 @@ order: 04
 view: main
 ----
 text:
-- `16:00` hypermush
-	- character design
-	- dungeon design 
-	- play
-- `17:00` BEERKER
+# mush
+
+## `intro`
+
+- what is a mud
+- what is a mush
+
+## `design`
+
+- character design
+- dungeon design 
+
+## `hypermush`
+
+- install hypermush, and use it to chat (clan organisation, single efforts, etc)
+  - grab it from the usb stick
+  - or [download the repo](https://github.com/nonlinear-thinkering-group/hypermush)
+- use dat, either through the command line or beaker, to exchange, trade, share files
+
+## at some point, `beerkers`
