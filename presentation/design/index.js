@@ -123,31 +123,25 @@ blockquote {
 	padding-bottom: 1rem;
 }
 
-ul li ul {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
-li {
-  padding: 0.15rem 0 0 0;
-}
-
-li p {
-  padding: 0;
-}
-
-p+h2, p+h3,
-ul+h2, ul+h3,
-figure+h2, figure+h3 {
-	padding-top: 1rem;
-}
-
 h3 {
 	text-indent: 1rem;
 }
 
 ul, ol {
 	margin: 0 1rem;
+}
+
+ul li ul {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+li:not(:first-child) {
+  padding: 0.15rem 0 0 0;
+}
+
+li p {
+  padding: 0;
 }
 
 a {
