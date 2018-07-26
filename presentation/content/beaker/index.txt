@@ -1,0 +1,16 @@
+title: beaker
+----
+order: 02
+----
+view: main
+----
+text:
+- `10:30` Installing beaker
+- `10:45` Explaining beaker
+	- Visiting sites
+	- Seeding a site
+	- Forking
+	- Editor
+	- Versions
+	- Hashbase
+- `11:30` BREAKER

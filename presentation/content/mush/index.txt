@@ -1,0 +1,12 @@
+title: mush
+----
+order: 04
+----
+view: main
+----
+text:
+- `16:00` hypermush
+	- character design
+	- dungeon design 
+	- play
+- `17:00` BEERKER
