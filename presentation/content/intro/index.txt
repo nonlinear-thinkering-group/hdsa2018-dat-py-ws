@@ -6,14 +6,67 @@ view: main
 ----
 text:
 
-- p2p vs http
-- p2p => visiting files
-- http => visiting locations that serve files
-- p2p => turns any computer into a node of the network
-- eg. torrenting movies and music
-- you can just simply connect with other computers (publish and share stuff, working on same files, broadcasting, etc); you are using your own computation power instead of using dedicated computers acting as servers; 
-- good alternative to most silicon-valley applications (distributed network rather than centralised gateways - rather than servers, because server farms and cdns) 
-- lan vs blockchain
-- RAND corp graph (add context)
-- decentralised + small distributed nodes
-- [hierarchical network model](https://en.m.wikipedia.org/wiki/Hierarchical_network_model)
+# p2p web
+
+## http vs p2p
+
+### http
+
+simple functioning of an http(s) server
+
+```
+         (→ hi!)
+client ====================> server
+
+         (cats, death, rabbit hole, etc ←)
+client <==================== server
+```
+
+### p2p
+
+![](/content/p2p-cats.gif)
+
+## what is the difference between http(s) and p2p?
+
+- `http` → you visit *locations* that serve files (eg you visit the url
+  of a page and that page spits back the content [= *files*] contained
+  in that page)
+- `p2p` → you visit *files* directly
+
+---
+
+- `http` impose (and needs) a server / client architecture, eg some
+  computers dispense informations, others can consume those informations
+  when going to the right location
+- `p2p` turns any computer into a node of the network:
+  - you can just simply connect with other computers (publish and share
+    stuff, working on same files, broadcasting, etc);
+  - you are using your own computation power instead of using dedicated
+    computers acting as servers;
+
+---
+
+- `http` you upload your data onto a server (encryption on? secure
+  connection?)
+- `p2p` by default stores your data onto your device, fully encrypted (eg.
+  [dat](https://datproject.org/))
+
+---
+
+→ `p2p` makes a good alternative to most silicon-valley applications.
+
+## lan vs blockchain
+
+![](/content/intro/cen-dec-dis.png)
+
+RAND Coporation, working for the United States Air Force, for the
+question: *would the US's communications infrastructure withstand
+a nuclear assault?*
+
+![](/content/intro/cen-dec-dis-lan.png)
+
+why not a decentralised + small distributed nodes model, rather than
+*always* a planetary synchronised ledger aka blockchain?
+
+see also the [hierarchical network
+model](https://en.m.wikipedia.org/wiki/Hierarchical_network_model)

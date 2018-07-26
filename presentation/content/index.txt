@@ -4,4 +4,6 @@ view: main
 ----
 text:
 
-![](/content/p2p-cats.png)
+![](/content/p2p-cats.gif)
+
+download beaker and open the p2p dat version of this site 😋
