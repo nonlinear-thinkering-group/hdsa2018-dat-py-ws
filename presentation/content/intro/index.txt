@@ -68,7 +68,7 @@ client <==================== server
 
 ![](/content/intro/cen-dec-dis.png)
 
-RAND Coporation, working for the United States Air Force, for the
+RAND Corporation, working for the United States Air Force, for the
 question: *would the US's communications infrastructure withstand
 a nuclear assault?*
 
