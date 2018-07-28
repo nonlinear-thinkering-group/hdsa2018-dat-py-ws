@@ -31,7 +31,6 @@ function view (state, emit) {
     })
   }
   
-  
   function c () {
     if (state.href != '/') {
       return ov(page('/').pages().v()).map(function (item) {
